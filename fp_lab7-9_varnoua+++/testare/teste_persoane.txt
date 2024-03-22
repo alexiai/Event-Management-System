@@ -1,0 +1,8 @@
+1,Ion Popescu,Str. Primaverii
+
+2,Ana Vasilescu,Str. Libertatii
+
+3,Mihai Popa,Str. Tudor Vladimirescu
+
+4,Ana Maria Radu,Bd. Decebal
+5,Adrian Stoica,Str. Mihail Kogalniceanu, nr. 12

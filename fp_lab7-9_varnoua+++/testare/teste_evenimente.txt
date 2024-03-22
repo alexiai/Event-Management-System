@@ -1,0 +1,9 @@
+1,2023-01-01,100,Eveniment 1
+
+2,2023-02-01,143,Eveniment 2
+
+3,2023-03-15,153,Conferinta IT
+
+4,2023-04-20,110,Sesiune de training
+
+5,2023-05-10,180,Eveniment cultural
